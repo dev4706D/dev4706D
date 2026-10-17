@@ -125,7 +125,12 @@ I'm always interested in building useful products, exploring new technologies, a
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dev4706D&style=flat-square&color=0969DA&label=Profile+Views" alt="Profile view counter"/>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=dev4706D&style=flat-square&color=0969DA&label=PROFILE+VIEWS"
+    alt="GitHub Profile Views"
+  />
+</p>
 
 ### 💡 Build. Learn. Improve. Repeat. 🚀
 
