@@ -130,3 +130,5 @@ I'm always interested in building useful products, exploring new technologies, a
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+
